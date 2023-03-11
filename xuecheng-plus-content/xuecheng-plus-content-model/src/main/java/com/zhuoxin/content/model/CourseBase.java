@@ -1,7 +1,10 @@
 package com.zhuoxin.content.model;
 
 import com.baomidou.mybatisplus.annotation.*;
+import lombok.AllArgsConstructor;
 import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
 
 import java.io.Serializable;
 import java.time.LocalDateTime;
@@ -15,6 +18,9 @@ import java.time.LocalDateTime;
  */
 @Data
 @TableName("course_base")
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
 public class CourseBase implements Serializable {
 
     private static final long serialVersionUID = 1L;

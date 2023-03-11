@@ -1,0 +1,4 @@
+2023-03-10 17:00:02,973 ERROR [main][DirectJDKLog.java:173] - An incompatible version [1.2.12] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2023-03-10 17:00:57,297 ERROR [main][DirectJDKLog.java:173] - An incompatible version [1.2.12] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2023-03-10 17:24:28,442 ERROR [main][DirectJDKLog.java:173] - An incompatible version [1.2.12] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
+2023-03-10 17:24:40,823 ERROR [main][DirectJDKLog.java:173] - An incompatible version [1.2.12] of the Apache Tomcat Native library is installed, while Tomcat requires version [1.2.14]
